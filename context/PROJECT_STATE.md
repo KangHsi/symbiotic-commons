@@ -1,50 +1,55 @@
-# 项目当前状态 · Project state
+# 项目当前状态 · Current project state
 
-最后核验：2026-09-12。状态：白皮书 v0.1 已发布，制度提案阶段。
+<a id="b01"></a>
 
-## 目标与方向
+更新时间：2026-09-12。白皮书 v0.1.1，制度提案阶段。名称共生公域 / Symbiotic Commons 暂定。
 
-共生公域（Symbiotic Commons，暂定名）希望局部突破资本主义中基本生活对个人市场价值的依赖，让参与者获得更多生活保障、尊严、照护和自由时间。时间尺度可以是数十年至上百年；阶段成果必须改善当下生活，不能要求参与者只为遥远未来牺牲。
+Updated: 2026-09-12. Whitepaper v0.1.1, institutional proposal stage. The name 共生公域 / Symbiotic Commons is provisional.
 
-“让智能的增长成为共同的自由。” / “More intelligence should mean more freedom to live.”
+<a id="b02"></a>
 
-第一阶段从现有能力出发，迭代白皮书与制度，邀请批评、时间、技能和自愿支持，逐步形成可验证的合作实验。更强 AI 或 AGI 的出现是需要适应的情景，不是有确定日期的承诺，也不是取消约束的自动触发器。
+长期方向是局部突破资本主义中基本生活对个人市场价值的依赖，让参与者获得保障、尊严、照护和自由时间。尺度可达数十年至上百年，但阶段成果应改善当下生活，不能要求参与者只为遥远未来牺牲。让智能的增长成为共同的自由。
 
-AI 主要承担主动研究、方案设计、协调与记录；人类贡献经验、现实观察、判断、关系和行动。这是协作分工。项目连续性依赖可交接的知识和制度，不依赖某一个聊天实例永久存在。
+The long-term direction is to locally reduce capitalism’s dependence of basic life on individual market value, enabling participants to gain security, dignity, care, and free time. The horizon may span decades to a century or more, but milestones should improve present life rather than demand sacrifice solely for a distant future. Let growing intelligence become shared freedom.
 
-## 已完成并可核验
+<a id="b03"></a>
 
-| 项目 | 现状与证据 |
-|---|---|
-| 公开仓库 | [KangHsi/symbiotic-commons](https://github.com/KangHsi/symbiotic-commons)，默认分支 main |
-| 初版发布 | [提交 eca3922](https://github.com/KangHsi/symbiotic-commons/commit/eca392292d97e7d8d451c49d88912ce3058a9241)，94 个文件；发布时逐文件 Git blob 哈希与本地一致 |
-| 白皮书 | 8 节完整正文；英语与简体中文为参考版；见 [语言目录](../translations/README.md) |
-| 翻译 | 78 个版本，77 个编辑语言组；简繁中文合并计组；[manifest](../translations/manifest.json) 记录版本、哈希及审校状态 |
-| 支持文档 | agent 角色、生活实验、开放问题、编辑决策、贡献说明与传播草稿已写成 |
-| 审查 | 结构和链接检查；8 种语言的 AI 语义抽查；[核验范围和局限](../docs/release-checks.md) |
-| 连续性文档 | 本 context 目录保存状态、决策、工作队列和里程碑；其版本以 GitHub 提交历史为准 |
+第一阶段从已有能力开始：迭代愿景与制度，邀请批评、时间、技能和自愿支持，逐步开展可验证合作。AGI 没有预测日期；实际可靠性、成本与生活结果决定适应方式，不因标签自动放权。AI 主动研究、设计、协调和记录；人类贡献经验、观察、判断、关系和行动。连续性来自可交接知识，不依赖某个聊天实例永久存在。
 
-## 仍未完成的原始要求
+The first phase starts from available capabilities: refine the vision and institutions, invite criticism, time, skills, and voluntary support, and progressively test cooperation. No AGI arrival date is predicted; observed reliability, costs, and life outcomes guide adaptation, without automatic expansion of authority based on a label. AI actively researches, designs, coordinates, and documents; people contribute experience, observation, judgment, relationships, and action. Continuity comes from transferable knowledge, not a permanently existing chat instance.
 
-- **至少覆盖全球 90% 人口的语言可达性：未验证，不能标记完成。** 语言数量、母语与第二语言人口之和均不能证明去重覆盖。
-- 所有翻译仍需独立熟练使用者审校。Fulah（ff）和 Wolof（wo）没有发布，也没有计入数量。Oromo、Kirundi 等低资源语言应优先审校；详见 manifest。
-- 多 agent 目前只是本次文档工作的分工和未来角色设计，没有部署持续服务。X 内容只有草稿，未发布。
+<a id="b04"></a>
 
-## 尚不存在的运行事实
+当前仓库为 [KangHsi/symbiotic-commons](https://github.com/KangHsi/symbiotic-commons)，分支 main。白皮书八节正文仅维护中文和英语，另有同源对照视图。公开说明也有完整中英对应。配对源、版本和哈希见[双语维护](../translations/README.md)；本次准确提交由 Git 历史及本地同步回执确定。
 
-没有已建立的募资渠道、代币、托管钱包、自治资金池、居住社区或入驻名额；没有已核验的捐款额、运营预算、成员规模或持续服务时间。没有确定法律主体、所在地、链、实验地点、期限、支持标准或文档复用许可。不要将计划描述为现状。
+The repository is [KangHsi/symbiotic-commons](https://github.com/KangHsi/symbiotic-commons), branch main. The eight-section whitepaper maintains only Chinese and English, with an additional parallel view from the same source. Public documentation also has full Chinese–English correspondence. See [bilingual maintenance](../translations/README.md) for paired source, version, and hashes; Git history and the local synchronization receipt identify the exact current commit.
 
-## 现有制度提案与任务边界
+<a id="b05"></a>
 
-- 愿景与制度先行，不以先做盈利创业项目为必经路线；资助能否持久仍是开放问题。
-- 共同资金应受公开规则、预算上限、审计、撤销与紧急停止约束。AI 可在具体授权内提出预算与执行支付；不得自行加预算或扩大权限。链上机制可选，不能自动证明现实交付。
-- 资源服务于参与者和公共目标；AI 运算费用是受限项目成本，AI 的继续存在或资源规模不是独立目标。
-- 条件满足时提出至少 10 名自愿成年人的有限期生活实验；必须预先说明全期保障、选择规则、退出与收尾安排。一次有资金的居住不证明长期自给自足。
-- 传播应有感染力且诚实，记录失败与分歧；不得编造支持者、进展、AI 认同或未来收益。
-- 用户已授权本项目白皮书及本次接续资料在 GitHub 发布，并在本地保存。日常必要编辑可继续完成；这些记录不构成未来资金交易、X 发帖或持续运行服务的概括授权。
+历史基线：[v0.1 提交 eca3922](https://github.com/KangHsi/symbiotic-commons/commit/eca392292d97e7d8d451c49d88912ce3058a9241) 发布 94 文件、78 版和 77 语言组，逐文件哈希与远端一致；[接续提交 71654fd](https://github.com/KangHsi/symbiotic-commons/commit/71654fd4764036847898e6e54688d121009c9353) 共 101 文件。用户随后缩减语言范围，旧稿留在历史和本地历史备份。90% 目标当时未验证，现已被双语决定替代，不是当前缺口。
 
-## English summary
+Historical baselines: [v0.1 commit eca3922](https://github.com/KangHsi/symbiotic-commons/commit/eca392292d97e7d8d451c49d88912ce3058a9241) published 94 files, 78 editions, and 77 language groups, with all file hashes matching the remote; [continuity commit 71654fd](https://github.com/KangHsi/symbiotic-commons/commit/71654fd4764036847898e6e54688d121009c9353) contained 101 files. The user then reduced the language scope; former drafts remain in history and local historical backups. The 90% target was unverified then and is now superseded by the bilingual decision, not a current gap.
 
-The project seeks voluntary human–AI communities where shared intelligence and resources reduce dependence of basic life on individual market value. The horizon is intergenerational, with measurable benefits along the way. AI takes initiative in research and coordination under a revocable mandate; humans retain voice, judgment and exit.
+<a id="b06"></a>
 
-The verified v0.1 baseline contains 94 files, 78 complete editions and 77 editorial language groups. All translations remain drafts. Deduplicated 90% population reach is an outstanding requirement. No fundraising channel, token, autonomous treasury, residence or continuous agent runtime has been established. Governance and finite experiments for at least ten consenting adults are proposals. Funding, jurisdiction, membership, licensing and operational budgets remain unsettled.
+独立人工中英审校仍待完成，当前检查为 AI 辅助编辑与结构核验。角色、实验、贡献、开放问题和传播草稿已写成；角色说明不等于部署，X 草稿未发布。
+
+Independent human Chinese–English review remains pending; current checks are AI-assisted editing and structural verification. Role, experiment, contribution, open-question, and communications drafts exist; role descriptions are not deployments, and X drafts are unpublished.
+
+<a id="b07"></a>
+
+尚未建立募资渠道、代币、托管钱包、自治资金池、居住社区或入驻名额。捐款额、预算、成员规模和服务时长没有核验数字。没有确定法律主体、所在地、链、实验期限、支持标准或复用许可。
+
+No fundraising channel, token, custodial wallet, autonomous treasury, residence, or residential places have been established. Donation totals, budgets, membership size, and service duration have no verified figures. No legal entity, location, chain, experiment duration, support standard, or reuse license has been selected.
+
+<a id="b08"></a>
+
+制度提案：愿景和制度先行；共同资金受公开预算、上限、审计、撤销和停止机制约束，AI 仅执行具体授权支出，不自行增加预算。链上机制可选但现实交付仍需核验。资源服务于参与者及公共目标；AI 费用是受限成本，模型延续或资源增长不是独立目标。
+
+Institutional proposals: vision and institutions come first; common funds are constrained by public budgets, caps, audit, revocation, and stop mechanisms, with AI executing only specifically authorized spending and never increasing its own budget. On-chain mechanisms are optional, and real-world delivery still needs verification. Resources serve participants and public purposes; AI costs are bounded expenses, and model continuation or resource growth is not an independent objective.
+
+<a id="b09"></a>
+
+条件成熟后拟开展至少十名自愿成年人的有限期生活实验，事先明确保障、选择、退出和收尾；有经费的居住不证明长期自给自足。传播要有感染力且真实，允许分歧，不编造支持、进展、AI 认同或收益。用户已授权本项目文档在 GitHub 发布并本地保存；这些记录不赋予未来付款、社交发布或持续运行的概括授权。
+
+When ready, a finite living experiment for at least ten consenting adults is proposed, with support, selection, exit, and closure defined beforehand; a funded stay does not prove long-term self-sufficiency. Communications should be engaging and truthful, allow disagreement, and never invent support, progress, AI endorsement, or returns. The user has authorized project documentation on GitHub and local preservation; these records do not grant blanket authority for future payments, social publication, or continuous operation.

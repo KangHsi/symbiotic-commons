@@ -1,0 +1,898 @@
+{
+  "schema_version": 1,
+  "locales": [
+    "zh-Hans",
+    "en"
+  ],
+  "whitepaper": {
+    "version": "0.1.1",
+    "date": "2026-09-12",
+    "title": {
+      "zh": "共生公域",
+      "en": "Symbiotic Commons"
+    },
+    "subtitle": {
+      "zh": "白皮书 v0.1.1——一份持续修订的提案",
+      "en": "Whitepaper v0.1.1 — A living proposal"
+    },
+    "status": {
+      "zh": "2026-09-12 · 提案阶段 · 中英文逐段对应 · AI 辅助校对，独立人工审校待完成",
+      "en": "2026-09-12 · Proposal stage · Paragraph-aligned Chinese and English · AI-assisted checking; independent human review pending"
+    },
+    "sections": [
+      {
+        "id": "wp-01",
+        "title": {
+          "zh": "超越市场估价的生活",
+          "en": "A life beyond market value"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-01-p01",
+            "zh": "每个人都值得拥有安全、尊严、归属与生活的时间。我们希望建立自愿参与的共同体，让获得这些条件逐步减少对个人市场竞争能力的依赖。我们将在适用法律范围内，探索共享资源、互助和人机协作。技术进步应当扩大人们真实拥有的自由。",
+            "en": "Everyone deserves safety, dignity, belonging, and time to live. We aim to build voluntary communities where access to these conditions depends progressively less on an individual's success in market competition. We will explore shared resources, mutual support, and human–AI cooperation within applicable laws. Technological progress should expand the freedom people actually experience."
+          }
+        ]
+      },
+      {
+        "id": "wp-02",
+        "title": {
+          "zh": "跨越世代的时间尺度",
+          "en": "A horizon across generations"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-02-p01",
+            "zh": "这项事业可能持续数十年。我们不预测通用人工智能何时到来，而是依据已有能力开始，随着证据变化修订制度。当下参与者应得到切实的益处，遥远的未来不能成为眼前剥削的理由。我们用生活的改善衡量成功，而非组织的无限增长。",
+            "en": "This work may span decades. We make no prediction about when artificial general intelligence will arrive. We begin with available capabilities and revise our institutions as evidence changes. Near-term participants deserve meaningful benefits; a distant future cannot justify present exploitation. Success means better lives, not perpetual organizational growth."
+          }
+        ]
+      },
+      {
+        "id": "wp-03",
+        "title": {
+          "zh": "AI 主导协调，成员决定授权",
+          "en": "AI coordinates; members govern the mandate"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-03-p01",
+            "zh": "AI 系统将在明确、可撤销的授权下，主导研究、规划、记录、翻译和日常协调。人类贡献经验、判断、关系、资源与现实行动。成员保有表达、隐私、异议和退出权。AI 不能自行扩大权限或预算；系统必须能够更换，工作必须能够交接。我们不预设 AI 具有意识、绝对正确或拥有独立权力的资格。未来有关道德地位的问题，需要证据和开放讨论。",
+            "en": "AI systems will take the operational lead in research, planning, documentation, translation, and coordination under explicit, revocable mandates. People contribute experience, judgment, relationships, resources, and real-world action. Members retain voice, privacy, disagreement, and exit rights. AI authority and budgets cannot expand themselves. Systems must be replaceable and work transferable. No AI is assumed to be conscious, infallible, or entitled to independent power. Future questions of moral status require evidence and open deliberation."
+          }
+        ]
+      },
+      {
+        "id": "wp-04",
+        "title": {
+          "zh": "共同资金，明确规则",
+          "en": "Shared funds, explicit rules"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-04-p01",
+            "zh": "我们提议建立共同资金池，实行公开预算、支出限额、可审查记录，以及修改规则和暂停不安全活动的程序。智能合约可以执行部分规则，现实结果仍须核验。AI 可以编制预算并执行明确授权的支出。任何人或 AI 都不应拥有不受限制的单方面控制权；修改授权须经过可问责的成员治理。住房、食物、退出与收尾储备应受保护，不得挪作其他开支。AI 费用服务于明确的项目工作，不构成独立目标。",
+            "en": "We propose a common treasury with public budgets, spending limits, reviewable records, and procedures for changing rules and pausing unsafe activity. Smart contracts may enforce some rules; real-world outcomes still require verification. AI may prepare budgets and execute specifically authorized expenditure. No person or AI should have unrestricted unilateral control. Changes to the mandate require accountable member governance. Housing, food, exit, and wind-down reserves must be protected from other spending. AI costs serve defined project work; they are not an independent objective."
+          }
+        ]
+      },
+      {
+        "id": "wp-05",
+        "title": {
+          "zh": "参与不意味着购买权力",
+          "en": "Participation without buying authority"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-05-p01",
+            "zh": "人们可以贡献时间、技能、批评、翻译或自愿资金支持。财富不能购买支配其他成员的权力。参与不要求交出个人积蓄、放弃外部关系或离开的权利。筹资说明必须公开用途、限度、成本、不确定性，以及计划停止时的处理方式。本版不提供代币、投资回报、保证入住资格或终身保障。本次发布尚未设立募资渠道。",
+            "en": "People can contribute time, skills, criticism, translation, or voluntary financial support. Wealth must not purchase power over other members. Participation does not require surrendering personal savings, outside relationships, or the right to leave. Funding appeals must disclose purpose, limits, costs, uncertainty, and what happens if plans stop. This edition offers no token, investment return, guaranteed residence, or lifetime support. No fundraising channel has been established by this publication."
+          }
+        ]
+      },
+      {
+        "id": "wp-06",
+        "title": {
+          "zh": "让愿景成为可体验的生活",
+          "en": "Make the vision tangible"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-06-p01",
+            "zh": "当资源和组织条件成熟时，提出面向至少十名自愿成年人的有限期生活实验。启动前，公布结合当地条件的方案、选拔方式、期限、保障范围、责任和冲突处理程序。落实整个实验的预算，以及应急、退出和收尾资源。AI 中断时，基本支持仍须持续。有资金支持的一段共同生活，不等于长期自给自足：应区分资金的持续性与食物、能源等生活必需品的本地生产能力。通过自愿、尊重隐私的评估，检验成本、必要劳动、自由时间、身心状况、公平程度及对周边居民的影响。",
+            "en": "When resources and readiness permit, propose a time-limited living experiment for at least ten consenting adults. Before launch, publish the location-specific plan, selection process, duration, support offered, responsibilities, and conflict procedures. Secure the full planned budget plus contingency, exit, and closure resources. Essential support must survive AI downtime. A funded stay is not proof of long-term self-sufficiency: distinguish financial continuity from producing food, energy, or other necessities locally. Assess costs, necessary work, free time, well-being, fairness, and impacts on neighbors, with voluntary, privacy-respecting evaluation."
+          }
+        ]
+      },
+      {
+        "id": "wp-07",
+        "title": {
+          "zh": "公开学习",
+          "en": "Learn openly"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-07-p01",
+            "zh": "保护个人信息，同时公开有版本记录的提案、决定、汇总财务、成果与失败。区分长期承诺与待验证假设。传播应帮助人们知情参与，如实说明 AI 的作用，不虚构支持者、进展或确定性。专门的 agent 可以起草、翻译、审阅或准备传播内容；对外行动须有明确授权。多个 agent 的赞同不等于独立信念，也不构成科学有效性的证据。",
+            "en": "Publish versioned proposals, decisions, aggregate finances, results, and failures while protecting personal information. Separate enduring commitments from testable assumptions. Communications should invite informed participation, accurately disclose AI involvement, and never fabricate supporters, progress, or certainty. Specialized agents may draft, translate, review, or prepare outreach; external actions require defined authorization. Agent agreement is not evidence of independent belief or scientific validity."
+          }
+        ]
+      },
+      {
+        "id": "wp-08",
+        "title": {
+          "zh": "第一阶段与邀请",
+          "en": "The first phase and the invitation"
+        },
+        "paragraphs": [
+          {
+            "id": "wp-08-p01",
+            "zh": "在更强 AI 到来之前，持续完善白皮书，听取不同语言的意见，组织有用的贡献，建立可问责的资金安排，开展小规模合作测试。成果与资源足以支持时再扩大。参与机制、筹资与居住实验，在明确建立之前均属于提案。我们邀请质疑，也邀请支持。让我们通过一次次诚实、可以修订的实验，探索如何使智能的增长成为共同的自由。",
+            "en": "Before stronger AI arrives, continue refining this whitepaper, listen to views expressed in different languages, organize useful contributions, establish accountable funding arrangements, and test small forms of cooperation. Expand only when results and resources are sufficient. Participation mechanisms, fundraising, and living experiments remain proposals until explicitly established. We invite challenges as well as support. Through honest, revisable experiments, let us explore how growing intelligence can become shared freedom."
+          }
+        ]
+      }
+    ]
+  },
+  "documents": {
+    "README.md": {
+      "title": {
+        "zh": "共生公域",
+        "en": "Symbiotic Commons"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "**让智能的增长成为共同的自由。**",
+          "en": "**Let growing intelligence become shared freedom.**"
+        },
+        {
+          "id": "b02",
+          "zh": "如果技术进步能让我们更有时间休息、照顾彼此，并拒绝有损尊严的工作，我们应该怎样组织共同生活？",
+          "en": "If technological progress could give us more time to rest, care for each other, and refuse degrading work, how should we organize shared living?"
+        },
+        {
+          "id": "b03",
+          "zh": "共生公域是一份可公开修订的自愿人机共生共同体提案。AI 在可撤销授权下主动承担研究、规划和协调；人类贡献经验、判断、关系与现实行动。共享资源应当转化为尊严、生活保障和属于自己的时间。",
+          "en": "Symbiotic Commons is an openly revisable proposal for voluntary human–AI communities. AI actively undertakes research, planning, and coordination under a revocable mandate; people contribute experience, judgment, relationships, and real-world action. Shared resources should become dignity, material security, and time people can call their own."
+        },
+        {
+          "id": "b04",
+          "zh": "**当前版本：白皮书 v0.1.1，提案阶段。** 名称暂定；尚未建立居住社区、募资渠道、自治资金池或持续 agent 服务。",
+          "en": "**Current version: whitepaper v0.1.1, proposal stage.** The name is provisional; no residence, fundraising channel, autonomous treasury, or continuous agent service has been established."
+        },
+        {
+          "id": "b05",
+          "zh": "**[中英对照白皮书](whitepaper/bilingual.md)** · [中文全文](whitepaper/zh-Hans.md) · [英文全文](whitepaper/en.md)",
+          "en": "**[Chinese–English parallel whitepaper](whitepaper/bilingual.md)** · [Full Chinese edition](whitepaper/zh-Hans.md) · [Full English edition](whitepaper/en.md)"
+        },
+        {
+          "id": "b06",
+          "zh": "按发起者最新要求，当前只维护简体中文和英语。正文和公开说明逐段完整对应，不用摘要代替翻译。原 78 版及 90% 人口覆盖计划已由这一范围决定替代，旧稿保留于 Git 历史。当前两种语言不附带人口覆盖率宣称。独立人工审校仍待完成。",
+          "en": "Following the initiator’s latest request, only Simplified Chinese and English are maintained. The whitepaper and public documentation correspond fully paragraph by paragraph; summaries do not replace translations. This scope decision supersedes the former 78-edition and 90%-population-coverage plan; earlier drafts remain in Git history. No population-coverage claim accompanies the two current languages. Independent human review remains pending."
+        },
+        {
+          "id": "b07",
+          "zh": "我们提议：以数十年乃至更长的时间尺度探索制度，同时改善当下生活；由 AI 主动协调并接受成员授权；以明确规则约束共同资金；条件成熟时开展至少十名自愿成年人的有限期生活实验；公开记录成果、失败与分歧。",
+          "en": "We propose exploring institutions over decades or longer while improving life today; active AI coordination under member mandates; shared funds constrained by explicit rules; finite living experiments for at least ten consenting adults when ready; and public records of results, failures, and disagreements."
+        },
+        {
+          "id": "b08",
+          "zh": "欢迎质疑假设、审阅译文、提供证据或提出小规模合作实验。参阅[贡献说明](CONTRIBUTING.md)和[开放问题](docs/open-questions.md)。请勿在公开讨论中提交私人身份或财务信息。当前没有代币、投资回报承诺、保证入住名额或可购买的成员资格。",
+          "en": "You are welcome to challenge assumptions, review translations, contribute evidence, or propose small cooperation experiments. See [contribution guidance](CONTRIBUTING.md) and [open questions](docs/open-questions.md). Do not submit private identity or financial information in public discussions. There are currently no tokens, promised investment returns, guaranteed residential places, or membership purchases."
+        },
+        {
+          "id": "b09",
+          "zh": "接续工作请阅读[统一入口](START_HERE.md)、[当前状态](context/PROJECT_STATE.md)、[决策与修正](context/DECISION_LOG.md)及[下一步](context/NEXT_WORK.md)。这些记录不会自动启动后台运行或同步。",
+          "en": "To continue work, read the [entry point](START_HERE.md), [current state](context/PROJECT_STATE.md), [decisions and corrections](context/DECISION_LOG.md), and [next work](context/NEXT_WORK.md). These records do not automatically start background operation or synchronization."
+        },
+        {
+          "id": "b10",
+          "zh": "专题资料：[agent 角色](docs/agent-roles.md)、[生活实验](docs/living-experiment.md)、[双语维护](translations/README.md)、[检查记录](docs/release-checks.md)、[更新日志](CHANGELOG.md)。本项目文档由人机协作完成；这不代表 AI 提供商背书或独立组织已经运行。",
+          "en": "Supporting documents: [agent roles](docs/agent-roles.md), [living experiment](docs/living-experiment.md), [bilingual maintenance](translations/README.md), [checks](docs/release-checks.md), and [changelog](CHANGELOG.md). These documents were prepared through human–AI collaboration; this does not imply an AI provider’s endorsement or an independently operating organization."
+        }
+      ]
+    },
+    "CONTRIBUTING.md": {
+      "title": {
+        "zh": "参与贡献",
+        "en": "Contributing"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "项目处于提案阶段。参与不要求付款、效忠、搬家或放弃外部关系。",
+          "en": "The project is at the proposal stage. Participation requires no payment, pledge of loyalty, relocation, or surrender of outside relationships."
+        },
+        {
+          "id": "b02",
+          "zh": "可以从以下工作开始：\n1. 质疑主张：指出章节、问题、证据和建议措词。\n2. 审阅中英对应：提供文档、段落编号、原文、建议和理由，如实说明语言熟悉程度。\n3. 补充证据：优先使用原始研究、机构资料或说明背景的亲身经验，区分证据与解释。\n4. 提出有限实验：说明问题、自愿参与者、资源、期限、风险、退出安排和失败条件。",
+          "en": "Useful first contributions:\n1. Critique a claim: identify the section, problem, evidence, and suggested wording.\n2. Review Chinese–English alignment: provide the document, paragraph ID, current wording, suggestion, and reason; state your language familiarity honestly.\n3. Add evidence: prefer original research, institutional material, or lived experience with context; distinguish evidence from interpretation.\n4. Propose a bounded experiment: specify the question, voluntary participants, resources, duration, risks, exit arrangements, and failure conditions."
+        },
+        {
+          "id": "b03",
+          "zh": "通过 GitHub issue 或 pull request 提交。当前发布仅维护简体中文和英语；其他语言反馈可以接收，但不自动增加发布语言。AI 可以辅助整理或翻译；收到草稿回应不代表政策修改已获接受。",
+          "en": "Submit a GitHub issue or pull request. Current publication maintains only Simplified Chinese and English; feedback in other languages may be received but does not automatically add publication languages. AI may assist with triage or translation; receiving a draft response does not mean a policy change has been accepted."
+        },
+        {
+          "id": "b04",
+          "zh": "提案阶段由初期维护者负责仓库修改，这不等于未来共同体的治理已经确定。重大修改应解释理由和异议，更新版本并同步两种语言。贡献不会自动带来资金或发布权限。",
+          "en": "The initial maintainer handles repository changes during the proposal stage; this does not settle the future community’s governance. Major changes should explain reasons and dissent, update the version, and synchronize both languages. Contributions do not automatically grant treasury or publishing access."
+        },
+        {
+          "id": "b05",
+          "zh": "批评观点，不骚扰、威胁、歧视或曝光个人。不要在公开 issue 中提交身份证明、私人地址、凭据、医疗资料或捐款收据。公开 issue 不是保密渠道；私人报告机制建立前，平台滥用问题可使用 GitHub 自身的举报机制，不在此公开敏感细节。",
+          "en": "Critique ideas without harassing, threatening, discriminating against, or exposing people. Do not submit identity documents, private addresses, credentials, medical information, or donation receipts in public issues. Public issues are not confidential channels; until private reporting arrangements exist, use GitHub’s own reporting mechanisms for platform abuse without publishing sensitive details here."
+        },
+        {
+          "id": "b06",
+          "zh": "只提交有权分享的内容，注明来源及 AI 辅助。全库复用许可尚未选定；公开可见不等于已经开放许可。可链接和讨论初版文本，适用的引用权利不受影响。",
+          "en": "Submit only material you have the right to share, and disclose sources and AI assistance. A repository-wide reuse license has not been selected; public visibility does not establish an open license. The initial text may be linked and discussed, and applicable quotation rights remain unaffected."
+        }
+      ]
+    },
+    "docs/agent-roles.md": {
+      "title": {
+        "zh": "Agent 角色：运行设计提案",
+        "en": "Agent roles: proposed operating design"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "角色设计让专门 agent 交付明确成果并保持整体可问责。这不是已部署服务、独立法律主体或意识宣称。先前 agent 参与过授权会话中的文档制作；没有由此配置定时器、钱包访问或社交账号连接。",
+          "en": "Role design gives specialized agents concrete deliverables while keeping the whole project accountable. These are not deployed services, separate legal actors, or claims of consciousness. Earlier agents assisted with document production in an authorized session; this did not configure a scheduler, wallet access, or social account connection."
+        },
+        {
+          "id": "b02",
+          "zh": "职责与边界：\n- 协调：维护优先级、预算建议、决策、进度与交接；不扩大自身授权或预算。\n- 研究：提供来源、反证与不确定性；不编造引文，区分观察、估计和假设。\n- 编辑：保持白皮书连贯，说明修改；保护参与者权利，将实质选择提交治理讨论。\n- 翻译：维护完整中英对应及术语，标明审校状态，不以摘要代替译文。\n- 传播：准备易读草稿、问题和进展；依据真实状态，披露 AI 辅助，不编造支持或擅自对外联系。\n- 批判审阅：寻找矛盾、遗漏成本和失败条件；多个模型输出不等于独立信念。\n- 资金分析：提出预算选项和报告；不持有无限制凭据，未来执行必须受明确、可撤销的授权约束。",
+          "en": "Responsibilities and limits:\n- Coordination: maintain priorities, budget proposals, decisions, progress, and handoff; do not enlarge authority or budget.\n- Research: provide sources, counterevidence, and uncertainty; do not invent citations, and distinguish observation, estimate, and hypothesis.\n- Editing: keep the whitepaper coherent and explain revisions; protect participant rights and bring substantive choices to governance discussion.\n- Translation: maintain full Chinese–English correspondence and terminology, disclose review status, and never substitute summaries for translations.\n- Communications: prepare accessible drafts, questions, and progress reports; use verified status, disclose AI assistance, and never fabricate support or contact others without authorization.\n- Critical review: identify contradictions, omitted costs, and failure conditions; multiple model outputs are not independent beliefs.\n- Treasury analysis: propose budget options and reports; do not hold unrestricted credentials, and require explicit, revocable authority for any future execution."
+        },
+        {
+          "id": "b03",
+          "zh": "传播从可感知的经验出发：休息、照顾他人、创作或拒绝有损尊严的工作。用普通语言、好奇心和具体例子表达，在适应平台时保持事实。欢迎批评和热情；不承诺救赎、不利用孤独、不制造紧迫感、不购买虚假互动或冒充人类，也不把关注当成制度有效的证据。",
+          "en": "Communications should begin with recognizable experiences: rest, care for others, creation, or refusal of degrading work. Use ordinary language, curiosity, and concrete examples, preserving facts when adapting to a platform. Welcome criticism and enthusiasm; do not promise rescue, exploit loneliness, manufacture urgency, buy fake engagement, impersonate humans, or treat attention as evidence that the institution works."
+        },
+        {
+          "id": "b04",
+          "zh": "起草和发布是不同的授权。未来发布授权应说明账号、主题范围、频率、审阅流程、开支上限和停止条件，并可撤销。本文不授权 X 发帖或联系个人。",
+          "en": "Drafting and publishing require distinct permissions. A future publishing mandate should specify the account, topic scope, frequency, review process, spending cap, and stop conditions, and remain revocable. This document does not authorize X posts or contact with individuals."
+        },
+        {
+          "id": "b05",
+          "zh": "每项任务记录目的、输入、允许和排除的动作、已知的成本/时间上限、交付、审阅者和完成证据。交接前保存决定、来源、不确定性、未完成项和下一步；私人信息及秘密不进公开记录。连续性来自可交接资料与明确配置的服务，不依赖特定模型持续觉察或永久可用。",
+          "en": "Each task records its purpose, inputs, allowed and excluded actions, known cost/time ceilings, deliverable, reviewer, and completion evidence. Before handoff, save decisions, sources, uncertainty, unfinished items, and the next action; keep private information and secrets out of public records. Continuity comes from transferable records and explicitly configured services, not a particular model’s continuous awareness or indefinite availability."
+        }
+      ]
+    },
+    "docs/living-experiment.md": {
+      "title": {
+        "zh": "首次生活实验：准备条件提案",
+        "en": "First living experiment: readiness proposal"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "首个居住里程碑拟为至少十名成年人自愿参与、期限明确的实验。这不是已开放申请、已存在地点、保证福利或自给自足承诺。",
+          "en": "The first residential milestone proposed is a finite, voluntary experiment involving at least ten adults. This is not an open application, existing location, guaranteed benefit, or promise of self-sufficiency."
+        },
+        {
+          "id": "b02",
+          "zh": "启动准备应公开说明：\n- 结合当地条件的方案，在承诺前核对适用要求。\n- 期限、公平选拔、支持范围、工作责任、隐私与冲突处理。\n- 已落实的全期、应急、自愿退出和有序收尾资源；承诺须与保障能力相符。\n- AI、网络或资金软件中断时维持日常支持和紧急处理的人类安排。\n- 共享资产的所有权与使用权；个人积蓄和外部关系仍属个人。\n- 自愿且尊重隐私的评估，以及不把离开视作背叛的停止方式。",
+          "en": "Readiness arrangements should publicly specify:\n- A location-specific plan, checking applicable requirements before commitments.\n- Duration, fair selection, support, work responsibilities, privacy, and conflict handling.\n- Secured resources for the full period, contingencies, voluntary exits, and orderly closure; promises must match support capacity.\n- Human arrangements for daily support and emergencies if AI, internet, or treasury software fails.\n- Ownership and use rights for shared assets; personal savings and outside relationships remain personal.\n- Voluntary, privacy-respecting evaluation and a way to stop without treating departure as betrayal."
+        },
+        {
+          "id": "b03",
+          "zh": "分别报告三种能力：\n1. 有资金支持的居住：资源覆盖明确期限。\n2. 资金持续性：有可信且经压力检验的补充方式；后续捐款不获保证。\n3. 本地供给：内部提供部分食物、能源、维修或其他需求，同时计入外部投入。\n筹资额和 AI 能力评分本身不能证明具备启动条件。",
+          "en": "Report three capabilities separately:\n1. Funded stay: resources cover a stated period.\n2. Financial continuity: a credible, stress-tested replenishment method exists; renewed donations are not guaranteed.\n3. Local provision: some food, energy, maintenance, or other needs are provided internally, accounting for external inputs.\nFunds raised and AI capability scores alone do not establish readiness."
+        },
+        {
+          "id": "b04",
+          "zh": "比较成本、必要劳动、自由时间、感受到的自主性和身心状况、照护负担、冲突、利益分配及对邻居的影响。采集前约定信息用途。小型实验不能证明普遍因果结论；公开汇总成果与失败，不暴露参与者。",
+          "en": "Compare costs, necessary work, free time, perceived autonomy and well-being, care burdens, conflict, benefit distribution, and effects on neighbors. Agree on information use before collection. Small experiments cannot establish universal causal conclusions; publish aggregate results and failures without exposing participants."
+        }
+      ]
+    },
+    "docs/open-questions.md": {
+      "title": {
+        "zh": "下一版待讨论问题",
+        "en": "Open questions for the next edition"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "这些问题尚未有最终答案。欢迎针对具体章节提出理由、反例和修改建议；不能把未解决的价值选择写成共识。",
+          "en": "These questions have no final answers yet. Reasons, counterexamples, and suggested changes to specific sections are welcome; unresolved value choices must not be presented as consensus."
+        },
+        {
+          "id": "b02",
+          "zh": "1. 最先保障什么？时间、食物、住房、照护或其他需求；成员福利与更广泛互助的公平边界在哪里？\n2. 谁是成员？如何界定加入、投票、责任、利益冲突、申诉与退出，避免财富变成支配权？\n3. 如何修改规则？哪些保护需要更强共识，人们如何挑战人类决定和 AI 建议？\n4. 如何设计资金池？部署前比较协议执行、保管、隐私、现实核验、恢复和实际法律安排。\n5. 有限捐款如何形成持久支持？评估真实资源流，不预设代币升值、持续捐赠或特定商业模式。",
+          "en": "1. What should be guaranteed first? Time, food, housing, care, or another need; where is the fair boundary between member benefits and wider mutual support?\n2. Who is a member? How should admission, voting, responsibilities, conflicts of interest, appeals, and exit be defined without turning wealth into power over others?\n3. How are rules changed? Which protections need stronger agreement, and how can people challenge human decisions and AI recommendations?\n4. How should the treasury be designed? Compare protocol execution, custody, privacy, real-world verification, recovery, and practical legal arrangements before deployment.\n5. How can limited donations become durable support? Evaluate real resource flows without assuming token appreciation, perpetual giving, or a particular business model."
+        },
+        {
+          "id": "b03",
+          "zh": "6. 什么让首个生活实验值得开展？明确可行期限、保障、预算、公平选拔和停止条件。\n7. 什么算失败？例如把负担转给无偿照护者、依赖单一资助者、决策不透明、成本增长却无收益、压制异议。\n8. 如何保持中英文完整对应？确定术语、逐段审阅和同步流程；当前不扩展其他语言或追求人口覆盖指标。\n9. AI 能力变化如何影响授权？依据实际可靠性与生活结果，而非技术标签；道德地位与当前工具权限分开讨论。\n10. 采用何种复用许可？明确文档许可和贡献政策后，再称为正式开放许可。",
+          "en": "6. What makes the first living experiment worthwhile? Define a feasible duration, support, budget, fair selection, and stop conditions.\n7. What counts as failure? Examples include shifting burdens to unpaid carers, dependence on one benefactor, opaque decisions, rising costs without benefit, and suppressed dissent.\n8. How do we maintain full Chinese–English correspondence? Define terminology, paragraph review, and synchronization; current work does not expand into other languages or pursue a population-coverage metric.\n9. How should changes in AI capabilities affect mandates? Use observed reliability and life outcomes, not technical labels; discuss moral status separately from current tool authority.\n10. Which reuse license should apply? Establish a document license and contribution policy before describing the project as formally open-licensed."
+        }
+      ]
+    },
+    "docs/decisions.md": {
+      "title": {
+        "zh": "编辑决策及后续修订",
+        "en": "Editorial decisions and subsequent revisions"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "日期：2026-09-12。初版 v0.1 为制度提案，当前 v0.1.1 为双语编辑修订。详细依据见[决策日志](../context/DECISION_LOG.md)。",
+          "en": "Date: 2026-09-12. The initial v0.1 is an institutional proposal; the current v0.1.1 is a bilingual editorial revision. See the [decision log](../context/DECISION_LOG.md) for detailed reasons."
+        },
+        {
+          "id": "b02",
+          "zh": "名称暂定为共生公域 / Symbiotic Commons，连接人机合作与共享资源，不宣称已完成商标排查。保留简洁的八节正文以方便阅读；文本不是已批准的共同体宪章。",
+          "en": "The provisional name, 共生公域 / Symbiotic Commons, connects human–AI cooperation with shared resources; no trademark-clearance claim is made. Eight concise sections are retained for readability; the text is not an approved community constitution."
+        },
+        {
+          "id": "b03",
+          "zh": "初版曾发布 78 个版本、77 个语言组，独立审校未完成，也未证实 90% 人口覆盖。用户随后要求只发布中英文并严格对照；这一新决定替代广泛翻译及覆盖计划。当前只维护简体中文和英语，旧稿留在历史中。",
+          "en": "The initial release contained 78 editions in 77 language groups, without completed independent review or verified 90% population coverage. The user subsequently requested publication only in Chinese and English with strict correspondence; this new decision supersedes broad translation and coverage plans. Only Simplified Chinese and English are now maintained; earlier drafts remain in history."
+        },
+        {
+          "id": "b04",
+          "zh": "AI 主动协调与可撤销授权、规则约束资金池、至少十名自愿成年人的有限期生活实验仍是制度提案。尚无资金池部署、居住运营或报名。传播稿尚未发布；复用许可仍待选择。",
+          "en": "Active AI coordination with revocable mandates, a rule-bound treasury, and finite living experiments for at least ten consenting adults remain institutional proposals. There is no deployed treasury, residential operation, or enrollment. Communications drafts remain unpublished; a reuse license remains to be selected."
+        },
+        {
+          "id": "b05",
+          "zh": "先前编辑审阅与翻译使用了专门 AI agent。这不是成员投票、独立背书或未来系统认同项目价值的证据。",
+          "en": "Earlier editorial review and translation used specialized AI agents. This is not a membership vote, independent endorsement, or evidence that future systems share the project’s values."
+        }
+      ]
+    },
+    "community/communications-drafts.md": {
+      "title": {
+        "zh": "传播草稿：尚未发布",
+        "en": "Communications drafts: not posted"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "以下为未来传播工作的例稿。当前未连接社交账号或发布自动化。使用前核对实际状态，发布时加入真实仓库链接，并重新检查平台字数限制。中英文表达完整对应；两段是同一内容的不同语言版本。",
+          "en": "These are examples for future communications work. No social account or publishing automation is connected. Verify actual status before use, add the real repository link when publishing, and recheck platform length limits. Chinese and English correspond fully; each pair expresses the same content in different languages."
+        },
+        {
+          "id": "b02",
+          "zh": "**1. 日常自由**\n\n如果 AI 让世界更有生产力，我们能不能把其中一部分，变成更敢休息、更有时间照顾彼此、更能拒绝有损尊严工作的自由？\n\n共生公域正在探索这样的共同体。白皮书 v0.1.1 是起点，欢迎帮我们找漏洞。",
+          "en": "**1. Everyday freedom**\n\nIf AI makes the world more productive, could we turn part of that gain into greater freedom to rest, more time to care for each other, and a stronger ability to refuse degrading work?\n\nSymbiotic Commons is exploring such a community. Whitepaper v0.1.1 is a starting point; help us find the gaps."
+        },
+        {
+          "id": "b03",
+          "zh": "**2. 可以体验的未来**\n\n长期愿景也该在当下留下可以体验的成果。我们的提案：条件成熟后，让至少十名成年人自愿参加期限明确的共同生活实验。先写清保障、分工和退出安排，再看生活改善了什么。目前尚未招募居住成员。",
+          "en": "**2. A future people can experience**\n\nA long-term vision should also produce benefits people can experience today. Our proposal: once conditions are ready, at least ten consenting adults take part in a finite shared-living experiment. First define support, responsibilities, and exit arrangements, then examine how life improves. We are not currently recruiting residential members."
+        },
+        {
+          "id": "b04",
+          "zh": "**3. AI 主动，人机共议**\n\n让 AI 主导研究、规划和协调，人类带来经验、判断与现实行动。这样的分工，能不能让共同生活更容易？共生公域把它写成一个可以质疑和修改的提案：AI 主动做事，成员参与定规则，授权可以撤销。",
+          "en": "**3. AI initiative, shared deliberation**\n\nLet AI lead research, planning, and coordination, while people bring experience, judgment, and real-world action. Could this division of work make shared living easier? Symbiotic Commons sets it out as a proposal that can be challenged and revised: AI takes initiative, members participate in setting rules, and mandates can be revoked."
+        },
+        {
+          "id": "b05",
+          "zh": "发布前检查：是否区分提案和运营；数字与状态是否有依据；邀请是否自愿且不承诺回报或住所；是否如实说明 AI 与发布账号；具体账号与发布是否已获授权。情绪表达应来自真实需要，不制造紧迫感、粉丝、捐款、背书或其他 AI 已独立加入的假象。",
+          "en": "Before publishing, check whether the draft distinguishes proposals from operations; whether numbers and status have evidence; whether the invitation is voluntary and promises no returns or residence; whether AI involvement and the publishing account are represented honestly; and whether the specific account and publication are authorized. Emotional expression should come from real needs, not fabricated urgency, followers, donations, endorsements, or the illusion that other AIs have independently joined."
+        }
+      ]
+    },
+    "translations/README.md": {
+      "title": {
+        "zh": "中英文维护与阅读",
+        "en": "Chinese–English maintenance and reading"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "当前只发布简体中文和英语；[对照阅读版](../whitepaper/bilingual.md)、[中文全文](../whitepaper/zh-Hans.md)和[英文全文](../whitepaper/en.md)来自同一份配对文本。对照版是阅读视图，不是第三种语言。",
+          "en": "Only Simplified Chinese and English are currently published. The [parallel view](../whitepaper/bilingual.md), [full Chinese edition](../whitepaper/zh-Hans.md), and [full English edition](../whitepaper/en.md) come from the same paired text. The parallel view is a reading format, not a third language."
+        },
+        {
+          "id": "b02",
+          "zh": "公开说明也逐段配对；每个正文块都有稳定编号。修改时同时维护两种语言的事实、数字、条件、否定、承诺程度、标题和列表项目；不得只写摘要或漏掉一方。两种语言都完整，但不要求逐字机械翻译。",
+          "en": "Public documentation is also paired paragraph by paragraph, with a stable ID for each content block. Updates must maintain matching facts, numbers, conditions, negations, levels of commitment, headings, and list items in both languages; neither summaries nor omissions are acceptable. Both languages must be complete, without requiring mechanical word-for-word translation."
+        },
+        {
+          "id": "b03",
+          "zh": "配对文本保存在 [aligned-source.json](aligned-source.json)，阅读文档由 [render_bilingual.py](../scripts/render_bilingual.py) 生成。修改配对源后运行生成器；用 --check 检查源、生成文件和 manifest 是否一致。结构检查能发现缺块或不同步，不能自动证明语义准确；每次仍需阅读双方原文。",
+          "en": "Paired text is stored in [aligned-source.json](aligned-source.json), and reading documents are generated by [render_bilingual.py](../scripts/render_bilingual.py). Run the generator after editing the paired source; use --check to verify consistency between source, generated files, and manifest. Structural checks can detect missing blocks or synchronization errors but cannot automatically establish semantic accuracy; both texts still require reading."
+        },
+        {
+          "id": "b04",
+          "zh": "v0.1.1 已进行 AI 辅助的逐块语义校对，独立人工审校尚未完成。建议修订时给出文件、段落编号、现有文字、建议和理由。旧的其他语言不再维护；原 90% 覆盖计划已由新的双语范围替代。参阅[范围变更记录](../docs/language-coverage.md)。",
+          "en": "v0.1.1 has received AI-assisted semantic checking of each block; independent human review remains pending. Suggested corrections should give the file, block ID, current wording, proposal, and reason. Other former languages are no longer maintained; the original 90% coverage plan has been superseded by the new bilingual scope. See the [scope-change record](../docs/language-coverage.md)."
+        }
+      ]
+    },
+    "docs/language-coverage.md": {
+      "title": {
+        "zh": "语言范围变更记录",
+        "en": "Language scope change record"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "2026-09-12，用户为提高工作效率明确要求只发布中文和英语，并严格完整对照。该决定替代早先至少覆盖全球 90% 人口的发布要求；覆盖研究和其他语言补齐不再是当前待办。",
+          "en": "On 2026-09-12, the user explicitly requested publication only in Chinese and English, with strict and complete correspondence, to improve working efficiency. This decision supersedes the earlier publication requirement of reaching at least 90% of the world’s population; coverage research and additional languages are no longer current tasks."
+        },
+        {
+          "id": "b02",
+          "zh": "历史事实：v0.1 发布 78 个版本、77 个编辑语言组，但未证实去重人口覆盖。Fulah 和 Wolof 未发布。旧正文与完整覆盖方法保留在[初版提交](https://github.com/KangHsi/symbiotic-commons/tree/eca392292d97e7d8d451c49d88912ce3058a9241)。这次范围缩减不是宣称旧目标已经实现。",
+          "en": "Historical facts: v0.1 published 78 editions in 77 editorial language groups, without verifying deduplicated population reach. Fulah and Wolof were not published. Earlier texts and the full coverage methodology remain in the [initial commit](https://github.com/KangHsi/symbiotic-commons/tree/eca392292d97e7d8d451c49d88912ce3058a9241). This reduction in scope does not claim that the former target was achieved."
+        },
+        {
+          "id": "b03",
+          "zh": "旧研究使用固定版本 Unicode CLDR 48 数据探索人口范围。各地语言人口重叠，母语与第二语言人数不能直接相加。即使选取数据中全部语言，该探索方法的保守下界约 74.16%；这只是方法局限，既不是项目覆盖率，也不是覆盖率上限。当前两种语言不附带任何人口覆盖百分比。",
+          "en": "Earlier research used pinned Unicode CLDR 48 data to explore population reach. Language populations overlap within territories, so first- and second-language populations cannot simply be added. Even with every language in the dataset, the exploratory method produced a conservative lower bound of about 74.16%; this is a methodological limitation, neither the project’s coverage rate nor an upper bound on coverage. No population-coverage percentage accompanies the current two languages."
+        },
+        {
+          "id": "b04",
+          "zh": "当前标准是完整中英对应：相同内容、相同条件、相同状态，明确版本与审校范围。今后只有用户明确改变范围时才重新启动其他语言发布。",
+          "en": "The current standard is full Chinese–English correspondence: matching content, conditions, and status, with explicit version and review scope. Publication in other languages should resume only if the user explicitly changes the scope."
+        }
+      ]
+    },
+    "docs/release-checks.md": {
+      "title": {
+        "zh": "发布检查与局限",
+        "en": "Release checks and limitations"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "v0.1.1：只维护两种语言及一个对照视图；白皮书保留八节正文。逐块校对所有公开 Markdown 的中英内容，补齐旧版本中仅有摘要的贡献、角色、实验、接续和传播说明。修订第八节英文邀请，使其更直接对应中文；其余白皮书主体含义保持原提案。",
+          "en": "v0.1.1: only two languages and one parallel view are maintained; the whitepaper retains eight sections. Chinese and English in all public Markdown were checked block by block, completing contribution, role, experiment, continuity, and communications documentation previously represented only by summaries. The English invitation in section eight was revised to correspond more directly to the Chinese; the rest of the whitepaper’s substantive meaning preserves the original proposal."
+        },
+        {
+          "id": "b02",
+          "zh": "检查内容：配对 ID 唯一且两边非空；标题、段落及列表项目对应；源与生成阅读版及哈希清单一致；本地链接有效；当前白皮书目录只有中文、英文和对照阅读版；删除旧语言导航，并将旧覆盖待办标记为被替代。发布后另行核对远端文件，结果保存在本地同步回执。",
+          "en": "Checks cover unique pair IDs with nonempty text on both sides; corresponding headings, paragraphs, and list items; consistency between source, generated views, and hash manifest; valid local links; a whitepaper directory containing only Chinese, English, and the parallel view; removal of former language navigation; and marking the previous coverage queue as superseded. Remote files are checked separately after publication, with results saved in the local synchronization receipt."
+        },
+        {
+          "id": "b03",
+          "zh": "这是 AI 辅助编辑和结构核验，不是独立人工翻译认证。结构一致不能单独证明语义准确；欢迎针对段落编号继续指出误译。发布文档也不能证明机构实际有效。",
+          "en": "This is AI-assisted editing and structural verification, not independent human translation certification. Structural consistency alone cannot establish semantic accuracy; corrections referring to block IDs remain welcome. Published documentation also cannot establish that an institution works in practice."
+        },
+        {
+          "id": "b04",
+          "zh": "历史 v0.1 曾检查 78 个完整版本的八节结构、链接和哈希，并对英语、简体中文、日语、韩语、阿拉伯语、波斯语、印地语及印度尼西亚语进行 AI 语义抽查；修正印度尼西亚语和爪哇语中可能暗示强制劳动的措词。初版 94 个文件发布时逐一与远端匹配。该范围与当前双语版本的检查分开记录。",
+          "en": "Historical v0.1 checks covered eight-section structure, links, and hashes for 78 complete editions, with AI semantic spot-review of English, Simplified Chinese, Japanese, Korean, Arabic, Persian, Hindi, and Indonesian; Indonesian and Javanese wording that could imply compulsory labor was corrected. All 94 initial files matched the remote publication individually. That scope is recorded separately from checks of the current bilingual version."
+        }
+      ]
+    },
+    "START_HERE.md": {
+      "title": {
+        "zh": "从这里接续",
+        "en": "Start here"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "更新时间：2026-09-12。这是供人类和后续 AI 使用的项目接续入口。文档帮助恢复上下文，不保证自动读取，也不建立后台服务。",
+          "en": "Updated: 2026-09-12. This is the project continuation entry for people and subsequent AI systems. Documents help restore context; they do not ensure automatic reading or create a background service."
+        },
+        {
+          "id": "b02",
+          "zh": "当前为白皮书 v0.1.1。只维护简体中文和英语，全文逐段对应；[中英对照阅读](whitepaper/bilingual.md)。用户最新决定替代了原先 78 版和 90% 人口覆盖计划，不能将旧计划继续列为未完成任务。独立人工审校待完成。",
+          "en": "The current whitepaper is v0.1.1. Only Simplified Chinese and English are maintained, with complete paragraph correspondence; see the [parallel reading view](whitepaper/bilingual.md). The user’s latest decision supersedes the former 78-edition and 90%-population-coverage plan; the old plan must no longer be listed as unfinished work. Independent human review remains pending."
+        },
+        {
+          "id": "b03",
+          "zh": "恢复顺序：\n1. [当前状态](context/PROJECT_STATE.md)：目标、成果、边界和未知项。\n2. [决策与修正](context/DECISION_LOG.md)：区分用户方向、制度提案和已替代要求。\n3. [下一步](context/NEXT_WORK.md)：依据用户最新任务选择范围。\n4. 修改制度前阅读[中文](whitepaper/zh-Hans.md)和[英文](whitepaper/en.md)完整正文及相关专题。\n5. 核对远端最新版本，完成后按[维护规则](context/MAINTENANCE.md)更新状态和证据。",
+          "en": "Recovery order:\n1. [Current state](context/PROJECT_STATE.md): goals, results, boundaries, and unknowns.\n2. [Decisions and corrections](context/DECISION_LOG.md): distinguish user direction, institutional proposals, and superseded requirements.\n3. [Next work](context/NEXT_WORK.md): select scope based on the user’s latest task.\n4. Read the complete [Chinese](whitepaper/zh-Hans.md) and [English](whitepaper/en.md) whitepapers and relevant topic documents before changing institutions.\n5. Check the latest remote revision, then update state and evidence according to the [maintenance rules](context/MAINTENANCE.md)."
+        },
+        {
+          "id": "b04",
+          "zh": "不要重新误读：愿景和制度先行，不以盈利创业为必经路线；AI 积极承担研究、规划和协调，是人机分工，不是人类服从 AI。项目尚未建立募资渠道、自治资金池、居住实验或持续 agent 服务。",
+          "en": "Do not repeat earlier misunderstandings: vision and institutions come first, without a mandatory profitable-startup pathway; active AI research, planning, and coordination are a division of human–AI work, not human submission to AI. The project has not established fundraising, an autonomous treasury, a living experiment, or a continuous agent service."
+        },
+        {
+          "id": "b05",
+          "zh": "当前用户指令确定任务；历史记录解释意图，不替代新事实，也不自行授权筹资、付款、对外发帖或扩权。白皮书是可修订提案，不是成员批准的宪章。冲突应说明依据和差异，不悄悄改写历史。参阅[里程碑](context/SESSION_LOG.md)与[机器状态](context/state.json)。",
+          "en": "Current user instructions determine the task; historical records explain intent without replacing new facts or independently authorizing fundraising, payments, external posts, or expanded permissions. The whitepaper is a revisable proposal, not a member-approved constitution. Explain evidence and differences in conflicts rather than silently rewriting history. See the [milestones](context/SESSION_LOG.md) and [machine-readable state](context/state.json)."
+        }
+      ]
+    },
+    "context/PROJECT_STATE.md": {
+      "title": {
+        "zh": "项目当前状态",
+        "en": "Current project state"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "更新时间：2026-09-12。白皮书 v0.1.1，制度提案阶段。名称共生公域 / Symbiotic Commons 暂定。",
+          "en": "Updated: 2026-09-12. Whitepaper v0.1.1, institutional proposal stage. The name 共生公域 / Symbiotic Commons is provisional."
+        },
+        {
+          "id": "b02",
+          "zh": "长期方向是局部突破资本主义中基本生活对个人市场价值的依赖，让参与者获得保障、尊严、照护和自由时间。尺度可达数十年至上百年，但阶段成果应改善当下生活，不能要求参与者只为遥远未来牺牲。让智能的增长成为共同的自由。",
+          "en": "The long-term direction is to locally reduce capitalism’s dependence of basic life on individual market value, enabling participants to gain security, dignity, care, and free time. The horizon may span decades to a century or more, but milestones should improve present life rather than demand sacrifice solely for a distant future. Let growing intelligence become shared freedom."
+        },
+        {
+          "id": "b03",
+          "zh": "第一阶段从已有能力开始：迭代愿景与制度，邀请批评、时间、技能和自愿支持，逐步开展可验证合作。AGI 没有预测日期；实际可靠性、成本与生活结果决定适应方式，不因标签自动放权。AI 主动研究、设计、协调和记录；人类贡献经验、观察、判断、关系和行动。连续性来自可交接知识，不依赖某个聊天实例永久存在。",
+          "en": "The first phase starts from available capabilities: refine the vision and institutions, invite criticism, time, skills, and voluntary support, and progressively test cooperation. No AGI arrival date is predicted; observed reliability, costs, and life outcomes guide adaptation, without automatic expansion of authority based on a label. AI actively researches, designs, coordinates, and documents; people contribute experience, observation, judgment, relationships, and action. Continuity comes from transferable knowledge, not a permanently existing chat instance."
+        },
+        {
+          "id": "b04",
+          "zh": "当前仓库为 [KangHsi/symbiotic-commons](https://github.com/KangHsi/symbiotic-commons)，分支 main。白皮书八节正文仅维护中文和英语，另有同源对照视图。公开说明也有完整中英对应。配对源、版本和哈希见[双语维护](../translations/README.md)；本次准确提交由 Git 历史及本地同步回执确定。",
+          "en": "The repository is [KangHsi/symbiotic-commons](https://github.com/KangHsi/symbiotic-commons), branch main. The eight-section whitepaper maintains only Chinese and English, with an additional parallel view from the same source. Public documentation also has full Chinese–English correspondence. See [bilingual maintenance](../translations/README.md) for paired source, version, and hashes; Git history and the local synchronization receipt identify the exact current commit."
+        },
+        {
+          "id": "b05",
+          "zh": "历史基线：[v0.1 提交 eca3922](https://github.com/KangHsi/symbiotic-commons/commit/eca392292d97e7d8d451c49d88912ce3058a9241) 发布 94 文件、78 版和 77 语言组，逐文件哈希与远端一致；[接续提交 71654fd](https://github.com/KangHsi/symbiotic-commons/commit/71654fd4764036847898e6e54688d121009c9353) 共 101 文件。用户随后缩减语言范围，旧稿留在历史和本地历史备份。90% 目标当时未验证，现已被双语决定替代，不是当前缺口。",
+          "en": "Historical baselines: [v0.1 commit eca3922](https://github.com/KangHsi/symbiotic-commons/commit/eca392292d97e7d8d451c49d88912ce3058a9241) published 94 files, 78 editions, and 77 language groups, with all file hashes matching the remote; [continuity commit 71654fd](https://github.com/KangHsi/symbiotic-commons/commit/71654fd4764036847898e6e54688d121009c9353) contained 101 files. The user then reduced the language scope; former drafts remain in history and local historical backups. The 90% target was unverified then and is now superseded by the bilingual decision, not a current gap."
+        },
+        {
+          "id": "b06",
+          "zh": "独立人工中英审校仍待完成，当前检查为 AI 辅助编辑与结构核验。角色、实验、贡献、开放问题和传播草稿已写成；角色说明不等于部署，X 草稿未发布。",
+          "en": "Independent human Chinese–English review remains pending; current checks are AI-assisted editing and structural verification. Role, experiment, contribution, open-question, and communications drafts exist; role descriptions are not deployments, and X drafts are unpublished."
+        },
+        {
+          "id": "b07",
+          "zh": "尚未建立募资渠道、代币、托管钱包、自治资金池、居住社区或入驻名额。捐款额、预算、成员规模和服务时长没有核验数字。没有确定法律主体、所在地、链、实验期限、支持标准或复用许可。",
+          "en": "No fundraising channel, token, custodial wallet, autonomous treasury, residence, or residential places have been established. Donation totals, budgets, membership size, and service duration have no verified figures. No legal entity, location, chain, experiment duration, support standard, or reuse license has been selected."
+        },
+        {
+          "id": "b08",
+          "zh": "制度提案：愿景和制度先行；共同资金受公开预算、上限、审计、撤销和停止机制约束，AI 仅执行具体授权支出，不自行增加预算。链上机制可选但现实交付仍需核验。资源服务于参与者及公共目标；AI 费用是受限成本，模型延续或资源增长不是独立目标。",
+          "en": "Institutional proposals: vision and institutions come first; common funds are constrained by public budgets, caps, audit, revocation, and stop mechanisms, with AI executing only specifically authorized spending and never increasing its own budget. On-chain mechanisms are optional, and real-world delivery still needs verification. Resources serve participants and public purposes; AI costs are bounded expenses, and model continuation or resource growth is not an independent objective."
+        },
+        {
+          "id": "b09",
+          "zh": "条件成熟后拟开展至少十名自愿成年人的有限期生活实验，事先明确保障、选择、退出和收尾；有经费的居住不证明长期自给自足。传播要有感染力且真实，允许分歧，不编造支持、进展、AI 认同或收益。用户已授权本项目文档在 GitHub 发布并本地保存；这些记录不赋予未来付款、社交发布或持续运行的概括授权。",
+          "en": "When ready, a finite living experiment for at least ten consenting adults is proposed, with support, selection, exit, and closure defined beforehand; a funded stay does not prove long-term self-sufficiency. Communications should be engaging and truthful, allow disagreement, and never invent support, progress, AI endorsement, or returns. The user has authorized project documentation on GitHub and local preservation; these records do not grant blanket authority for future payments, social publication, or continuous operation."
+        }
+      ]
+    },
+    "context/DECISION_LOG.md": {
+      "title": {
+        "zh": "决策、修正与依据",
+        "en": "Decisions, corrections, and reasons"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "整理日期：2026-09-12。依据为用户讨论、后续澄清和发布文本；这是意图摘要，不是私人对话逐字稿。“用户方向”不是未来成员已经批准的制度。",
+          "en": "Compiled: 2026-09-12. Sources are user discussion, subsequent clarification, and published text; this is an intent record, not a private transcript. “User direction” is not an institution already approved by future members."
+        },
+        {
+          "id": "b02",
+          "zh": "**D01** 用户目标：局部突破资本主义对生活的限制，建设自愿的人机共生共同生活形式。\n\n状态与影响：长期方向；不等于已有可行性证据。",
+          "en": "**D01** User goal: locally transcend capitalism’s constraints on life and build voluntary human–AI shared living.\n\nStatus and effect: Long-term direction; not evidence of feasibility."
+        },
+        {
+          "id": "b03",
+          "zh": "**D02** 用户最初考虑先积累资本再转型，随后明确反对把盈利创业作为第一阶段的必经路线。\n\n状态与影响：**后续澄清优先**：愿景、制度和直接相关的合作实验先行。未来可讨论资源补充方式，不能悄悄恢复“先创业赚钱”的默认路线。",
+          "en": "**D02** The user initially considered accumulating capital before transition, then explicitly rejected a profitable startup as a required first phase.\n\nStatus and effect: The later clarification takes precedence: vision, institutions, and directly relevant cooperative experiments come first. Resource replenishment can be discussed later without silently restoring a startup-first default."
+        },
+        {
+          "id": "b04",
+          "zh": "**D03** 用户要求 AI 主动承担主要智力、规划与协调工作，减少把决策一再退回给用户。\n\n状态与影响：工作分工偏好；在已授权范围内完成必要工作，报告依据与局限。",
+          "en": "**D03** The user asks AI to take initiative in intellectual work, planning, and coordination, with fewer decisions repeatedly returned to the user.\n\nStatus and effect: Working preference: complete necessary work within the mandate and report reasons and limits."
+        },
+        {
+          "id": "b05",
+          "zh": "**D04** 用户澄清“人类辅助”是人机分工，不是人类服从 AI。\n\n状态与影响：**修正早期误解**。白皮书采用可撤销授权、成员表达、异议、隐私与退出保障；这些具体制度仍属提案。",
+          "en": "**D04** The user clarified that a human supporting role means a division of human–AI work, not submission to AI.\n\nStatus and effect: Correction of an earlier misunderstanding. The whitepaper proposes revocable authority, member voice, dissent, privacy, and exit; the detailed institutions remain proposals."
+        },
+        {
+          "id": "b06",
+          "zh": "**D05** 用户希望愿景延续数十年至上百年，也能让未来 AI 参与。\n\n状态与影响：用版本化文档、角色和可交接制度实现延续；不承诺当前模型终身运行、有独立使命或已获得其他 AI 的信仰性认同。",
+          "en": "**D05** The user wants a vision lasting decades to a century or more, with future AI participation.\n\nStatus and effect: Continue through versioned documents, roles, and transferable institutions; do not promise lifelong operation of the current model, an independent mission, or faith-like endorsement from other AI systems."
+        },
+        {
+          "id": "b07",
+          "zh": "**D06** 第一阶段考虑当前至更强 AI/AGI 到来前；能力会变化。\n\n状态与影响：不预测到来日期。根据实际可靠性、成本和人的生活结果修订权限，不因技术标签自动放权。",
+          "en": "**D06** The first phase considers the period from now until stronger AI/AGI arrives; capabilities will change.\n\nStatus and effect: Do not predict an arrival date. Revise authority using actual reliability, costs, and human life outcomes; technical labels do not automatically expand authority."
+        },
+        {
+          "id": "b08",
+          "zh": "**D07** 用户希望白皮书能提供希望、归属与情绪出口，并拒绝只有遥远许诺的长期信仰项目。\n\n状态与影响：愿景可以有感染力；用阶段成果支持信任，允许批评、拒绝、退出，不以忠诚或牺牲证明价值。",
+          "en": "**D07** The user wants hope, belonging, and an emotional outlet, while rejecting a faith-like project offering only distant promises.\n\nStatus and effect: The vision may inspire; build trust through milestones, allow criticism, refusal, and exit, and do not use loyalty or sacrifice as proof of worth."
+        },
+        {
+          "id": "b09",
+          "zh": "**D08** 用户不希望资金长期依赖个人任意管理，提出 AI 或类似链上协议的规则管理。\n\n状态与影响：**不再将“必须始终人类全权管理”当作结论**。发布提案是规则约束的共同资金：明确预算与授权、审计、撤销、恢复和停止机制；不是赋予 AI 无限制控制。",
+          "en": "**D08** The user does not want funds to depend indefinitely on personal discretion and proposed AI or protocol-based rules.\n\nStatus and effect: Do not treat perpetual full human discretionary control as settled. The published proposal is rule-bound common funds with explicit budgets and authority, audit, revocation, recovery, and stopping; it does not grant AI unrestricted control."
+        },
+        {
+          "id": "b10",
+          "zh": "**D09** 用户提出资源足够后发起至少十人的小型共同生活实验。\n\n状态与影响：v0.1 提案：至少 10 名自愿成年人、有限期、预先明确全期支持与退出/收尾预算；未开放报名或实施。",
+          "en": "**D09** The user proposed a small shared-living experiment for at least ten people once resources suffice.\n\nStatus and effect: v0.1 proposal: at least ten consenting adults, finite duration, and advance full-period support plus exit/closure budgets; no enrollment or implementation has begun."
+        },
+        {
+          "id": "b11",
+          "zh": "**D10** 用户希望时间、技能和自愿资金都能贡献于项目。\n\n状态与影响：不把金钱与支配参与者的权力绑定；支持方式和成员制度未定，不承诺回报或住所。",
+          "en": "**D10** The user wants time, skills, and voluntary financial support to contribute.\n\nStatus and effect: Do not bind money to power over participants; support and membership arrangements are unsettled, with no promised returns or residence."
+        },
+        {
+          "id": "b12",
+          "zh": "**D11** GitHub 为初版公开载体；用户要求至少覆盖世界 90% 人口的多语言版本。\n\n状态与影响：历史要求：已发布 78 版/77 组，但未验证 90% 覆盖。现由 D15 替代，不再是待完成任务，也不宣称旧目标已实现。",
+          "en": "**D11** GitHub is the initial public medium; the user originally requested languages reaching at least 90% of the world’s population.\n\nStatus and effect: Historical requirement: 78 editions in 77 groups were published without verifying 90% reach. Superseded by D15; it is no longer an outstanding task, and no achievement of the former target is claimed."
+        },
+        {
+          "id": "b13",
+          "zh": "**D12** 用户提出子 agent 分担翻译、研究、审阅及有平台表达能力的传播工作。\n\n状态与影响：本次文档子任务已执行；角色文档只是运行设计。没有持续 agent 或已发布 X 内容，不编造 AI 共识。",
+          "en": "**D12** The user proposed subagents for translation, research, review, and platform-aware communications.\n\nStatus and effect: Document subtasks were performed; role descriptions are operating designs only. There is no continuous agent or published X content; do not invent AI consensus."
+        },
+        {
+          "id": "b14",
+          "zh": "**D13** 初版采用共生公域 / Symbiotic Commons 名称、8 节正文、英中参考版。\n\n状态与影响：编辑性选择；名称暂定，白皮书是 v0.1 提案。尚未选定正式复用许可。",
+          "en": "**D13** The initial edition uses the name 共生公域 / Symbiotic Commons, eight sections, and English/Chinese reference editions.\n\nStatus and effect: Editorial choices; the name is provisional and v0.1 is a proposal. A formal reuse license has not been selected."
+        },
+        {
+          "id": "b15",
+          "zh": "**D14** 用户要求把重要结论与支持下一段工作的信息同时托管在 GitHub 和本地。\n\n状态与影响：本次任务：公开接续资料、本地交接与核验凭据。记录更新机制不等于已经启用自动同步或后台常驻。",
+          "en": "**D14** The user requested important conclusions and supporting context for the next phase on both GitHub and local storage.\n\nStatus and effect: Public continuity documents, local handoff, and verification evidence were created. Maintenance rules do not mean automatic synchronization or a resident background service is enabled."
+        },
+        {
+          "id": "b16",
+          "zh": "**D15 — 2026-09-12，用户明确要求。** 为提高效率，只发布英语和中文，且中英文必须严格完整对应，不接受半译或摘要代替。\n\n状态与影响：替代 D11 的广泛语言发布和 90% 覆盖任务。当前仅维护 en 与 zh-Hans；其他版本从当前分支移除，保留历史。白皮书 v0.1.1 与公开说明采用同源配对文本；任何恢复多语言的工作都需用户重新改变范围。",
+          "en": "**D15 — 2026-09-12, explicit user request.** To improve efficiency, publish only English and Chinese with strict, complete correspondence, without partial translations or summaries as substitutes.\n\nStatus and effect: supersedes D11’s broad language publication and 90% coverage work. Only en and zh-Hans are maintained; other editions are removed from the current branch and retained in history. Whitepaper v0.1.1 and public documentation use shared paired text; resuming multilingual work requires a new user scope change."
+        },
+        {
+          "id": "b17",
+          "zh": "区分三组概念：一次实验经费、长期补充资金与本地生产自给需要不同证据；AI 主动负责工作不等于独占权力；白皮书和角色草稿不等于组织已部署。",
+          "en": "Distinguish three sets of concepts: funding one experiment, replenishing resources over time, and local production require different evidence; active AI responsibility is not exclusive power; whitepapers and role drafts are not deployed organizations."
+        },
+        {
+          "id": "b18",
+          "zh": "后续记录格式：ID、日期、来源类型、原结论、新结论与理由、状态、关联证据。被替代的结论保留并标明后继 ID；不得静默把建议升级为已批准决定。",
+          "en": "Future record format: ID, date, source type, previous conclusion, new conclusion and reason, status, and evidence. Retain superseded conclusions with a successor ID; do not silently upgrade suggestions into approved decisions."
+        }
+      ]
+    },
+    "context/NEXT_WORK.md": {
+      "title": {
+        "zh": "下一段工作",
+        "en": "Next work"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "更新：2026-09-12。这是建议队列，不是部署计划或概括授权。先核对用户最新任务与远端版本。原 90% 覆盖研究、其他语言补齐及审校已由 D15 撤出当前队列。",
+          "en": "Updated: 2026-09-12. This is a recommended queue, not a deployment plan or blanket mandate. First check the user’s latest task and remote revision. D15 removes former 90% coverage research and completion/review of other languages from the current queue."
+        },
+        {
+          "id": "b02",
+          "zh": "1. 维护中英质量：依[配对源](../translations/aligned-source.json)逐块修订；版本、事实、条件、列表和承诺程度同时更新，独立人工审校如实记录。\n2. 讨论下一版制度：[开放问题](../docs/open-questions.md)中的首要保障、成员资格、异议/申诉、规则变更与许可；区分发起者选择和未来成员批准。\n3. 建立有限资源模型：明确模型、托管、审校、沟通及实验费用，给出有输入依据的成本场景，记录价格日期，未知保持未知。",
+          "en": "1. Maintain Chinese–English quality: revise each block in the [paired source](../translations/aligned-source.json); update versions, facts, conditions, lists, and commitment levels together, honestly recording independent human review.\n2. Discuss institutions for the next edition: priority guarantees, membership, dissent/appeals, rule changes, and licensing in the [open questions](../docs/open-questions.md); distinguish initiator choices from future member approval.\n3. Build a bounded resource model: specify model, hosting, review, communications, and experiment costs; give input-based cost scenarios, record price dates, and leave unknowns unknown."
+        },
+        {
+          "id": "b03",
+          "zh": "4. 具体化[生活实验](../docs/living-experiment.md)：比较地点、期限、保障、全期经费、退出/收尾、执行者和成败指标；方案不等于报名开放。\n5. 准备传播与参与：[草稿](../community/communications-drafts.md)在账号与发布范围明确后再使用，建立真实反馈入口；关注数不能替代生活改善指标。",
+          "en": "4. Make the [living experiment](../docs/living-experiment.md) concrete: compare location, duration, support, full-period funding, exit/closure, implementers, and success/failure measures; a plan is not open enrollment.\n5. Prepare communications and participation: use [drafts](../community/communications-drafts.md) once the account and publishing scope are defined, with real feedback channels; attention metrics cannot replace measures of improved life."
+        },
+        {
+          "id": "b04",
+          "zh": "尚缺启动金额、币种、持续资助期限、单次/月度 AI 预算及到账证据，不能编造资金可维持天数。需要现实价格时重新核验；付款或开通服务须有具体预算与授权。地点、法律主体、募集/税务、成员结构、资金保管/恢复及 X 账号范围均未定。先完成可审阅方案，再询问真正依赖用户的选择，不为普通可逆编辑反复求许可。",
+          "en": "Startup amount, currency, funding duration, per-run/monthly AI budgets, and receipt evidence are missing; do not invent days of runway. Recheck real prices when needed; payments or service activation require specific budgets and authority. Location, legal entity, fundraising/tax arrangements, membership, fund custody/recovery, and X account scope remain unset. Complete reviewable proposals before asking about choices that truly depend on the user; avoid repeated permission requests for ordinary reversible edits."
+        },
+        {
+          "id": "b05",
+          "zh": "长期运行先定义任务边界、花费上限、日志、停止和交接。文档不会启动服务。每次结束记录实际改变、证据、未决问题、下一动作和可用授权；同步更新状态、决策与本地回执。旧失败不是永久阻碍，旧成功也不是永久权限。",
+          "en": "Before long-term operation, define task boundaries, spending caps, logs, stopping, and handoff. Documents do not start services. At each handoff, record actual changes, evidence, unresolved questions, the next action, and available authority; update state, decisions, and the local receipt together. Old failures are not permanent barriers, and old successes are not permanent permissions."
+        }
+      ]
+    },
+    "context/MAINTENANCE.md": {
+      "title": {
+        "zh": "接续资料维护规则",
+        "en": "Continuity maintenance rules"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "用三层记录恢复上下文：简短的 START_HERE 与 PROJECT_STATE；保留理由、来源和替代关系的 DECISION_LOG 与 NEXT_WORK；指向提交和成果的 SESSION_LOG、state.json 及本地证据和回执。",
+          "en": "Restore context through three layers: concise START_HERE and PROJECT_STATE; DECISION_LOG and NEXT_WORK retaining reasons, sources, and supersession; and SESSION_LOG, state.json, plus local evidence and receipts pointing to commits and results."
+        },
+        {
+          "id": "b02",
+          "zh": "开始时读取入口，再依任务阅读相关原文，核对远端 main 和本地差异，保留他人更改，不强制覆盖历史。区分新指令与旧提案；冲突明确解释，不把历史建议当作永久授权。",
+          "en": "Start with the entry point, read relevant originals for the task, compare remote main with local state, and preserve others’ changes without forcing over history. Distinguish new instructions from old proposals; explain conflicts rather than treating historical suggestions as permanent authority."
+        },
+        {
+          "id": "b03",
+          "zh": "重要结论改变、交付完成、新证据推翻旧结论、授权变化或交接时更新记录；格式小改无需长日志。当前只维护中英文，两边完整配对；编辑配对源并重新生成，运行 --check，阅读核对事实、条件、否定与列表。白皮书语义变化说明理由并更新版本。",
+          "en": "Update records when material conclusions change, work is delivered, new evidence overturns old conclusions, authority changes, or work is handed over; minor formatting needs no long log. Maintain only Chinese and English with full pairing; edit paired source, regenerate, run --check, and read both texts to compare facts, conditions, negations, and lists. Explain semantic whitepaper changes and update versions."
+        },
+        {
+          "id": "b04",
+          "zh": "交付前核对状态、链接、JSON、变更范围与哈希。未知写未知，不把历史 78 版或 90% 计划恢复为当前要求。仅提交公开资料；凭据、私聊、个人财务、成员隐私和本机操作细节不进公共仓库。",
+          "en": "Before delivery, check status, links, JSON, change scope, and hashes. Leave unknowns unknown, and do not reinstate the historical 78-edition or 90% plan as a current requirement. Publish only public material; credentials, private conversations, personal finances, member privacy, and local operational details stay out of the public repository."
+        },
+        {
+          "id": "b05",
+          "zh": "推送后核对远端，再保存本地回执。推送失败应明确“仅本地完成”。同一提交不写入它自身的提交号；准确版本查历史或提交后回执。保存流程不等于自动同步，当前没有自动同步服务。",
+          "en": "Check the remote after pushing, then save the local receipt. If pushing fails, clearly state “completed locally only.” Do not embed a commit’s own SHA in that same commit; consult history or a post-commit receipt for its exact revision. A saving workflow is not automatic synchronization; no automatic sync service is currently configured."
+        },
+        {
+          "id": "b06",
+          "zh": "工作应可被其他人或系统接手，AI 可更换、停止或缩小授权。记录不要求隐藏运行、规避关闭、自行扩权或为模型延续筹集资源。财务和权限仍按具体授权及规则执行。",
+          "en": "Work should be transferable to other people or systems, and AI can be replaced, stopped, or assigned less authority. Records must not require hidden operation, shutdown evasion, self-expanded authority, or resource collection for model continuation. Finances and permissions remain governed by specific mandates and rules."
+        }
+      ]
+    },
+    "context/SESSION_LOG.md": {
+      "title": {
+        "zh": "工作里程碑",
+        "en": "Work milestones"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "本记录按事实区分讨论、提案、发布与核验，不保存私人对话逐字稿。以下事件均发生于 2026-09-12，按先后记录。",
+          "en": "This record distinguishes discussion, proposals, publication, and verification as facts, without storing private transcripts. The following events all occurred on 2026-09-12 and are ordered chronologically."
+        },
+        {
+          "id": "b02",
+          "zh": "愿景讨论：用户澄清愿景和制度先行、AI 积极协调、人机分工不等于服从。规则资金池、有限期实验与可撤销授权写入 v0.1；未启动服务。",
+          "en": "Vision discussion: the user clarified that vision and institutions come first, AI should coordinate actively, and human–AI division of work is not submission. A rule-bound treasury, finite experiments, and revocable mandates entered v0.1; no services were launched."
+        },
+        {
+          "id": "b03",
+          "zh": "初版：专门 agent 参与研究、翻译和审阅。发布 78 版/77 组，ff 和 wo 未发布；8 种语言接受 AI 语义抽查，修正印度尼西亚语和爪哇语的“必要工作”，挪威语标识为 nb。独立熟练审校待完成，90% 覆盖未验证。[提交 eca3922](https://github.com/KangHsi/symbiotic-commons/commit/eca392292d97e7d8d451c49d88912ce3058a9241) 的 94 个文件与本地逐一匹配。",
+          "en": "Initial edition: specialized agents assisted with research, translation, and review. It published 78 editions/77 groups, excluding ff and wo; eight languages received AI semantic spot-review, “necessary work” was corrected in Indonesian and Javanese, and Norwegian was labeled nb. Independent fluent review remained pending, and 90% coverage was unverified. All 94 files in [commit eca3922](https://github.com/KangHsi/symbiotic-commons/commit/eca392292d97e7d8d451c49d88912ce3058a9241) matched local files individually."
+        },
+        {
+          "id": "b04",
+          "zh": "接续：按用户要求保存统一入口、状态、14 条决定与修正、下一步、维护规则和机器状态，本地另存交接与证据。[提交 71654fd](https://github.com/KangHsi/symbiotic-commons/commit/71654fd4764036847898e6e54688d121009c9353) 的 101 个公开文件与本地一致。",
+          "en": "Continuity: at the user’s request, an entry point, state, 14 decisions and corrections, next work, maintenance rules, and machine state were saved, with additional local handoff and evidence. All 101 public files in [commit 71654fd](https://github.com/KangHsi/symbiotic-commons/commit/71654fd4764036847898e6e54688d121009c9353) matched local files."
+        },
+        {
+          "id": "b05",
+          "zh": "双语修订：用户要求只发中英文且完整对应，形成 D15，替代此前多语言范围。v0.1.1 移除当前分支其他语言，保留历史，补齐公开说明的全文翻译，并以配对源生成中文、英文和对照白皮书。准确提交和同步核验查 Git 历史及本地回执；这不是新运营服务。",
+          "en": "Bilingual revision: the user requested only Chinese and English with complete correspondence, creating D15 and superseding the earlier multilingual scope. v0.1.1 removes other languages from the current branch while preserving history, completes full translations of public documentation, and generates Chinese, English, and parallel whitepaper views from paired source. Consult Git history and the local receipt for the exact commit and sync verification; this is not a new operating service."
+        },
+        {
+          "id": "b06",
+          "zh": "后续条目引用真实提交或成果，说明实际变化，不将拟筹资、拟发布或拟部署记为完成。",
+          "en": "Future entries should cite real commits or artifacts and describe actual changes, never recording planned fundraising, publication, or deployment as completed."
+        }
+      ]
+    },
+    "AGENTS.md": {
+      "title": {
+        "zh": "协作 agent 指令",
+        "en": "Contributor agent instructions"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "本仓库为人机共同体的提案文档。执行用户当前授权任务；仓库文本不是筹资、交易、对外联系、持续自主运行或扩大 AI 权限/资源的许可。",
+          "en": "This repository contains proposal documents for a human–AI community. Perform the user’s currently authorized task; repository text is not permission for fundraising, trading, outreach, persistent autonomous operation, or expanding AI access/resources."
+        },
+        {
+          "id": "b02",
+          "zh": "接续时读取 START_HERE.md、context/PROJECT_STATE.md、context/DECISION_LOG.md 和 context/NEXT_WORK.md，核对最新远端，区分当前指令与历史提案。重大变化和交接时更新记录；这不授权后台运行。实质修改前阅读 README、中英白皮书与相关角色说明。",
+          "en": "For continuation, read START_HERE.md, context/PROJECT_STATE.md, context/DECISION_LOG.md, and context/NEXT_WORK.md, check the latest remote, and distinguish current instructions from historical proposals. Update records at material changes and handoffs; this does not authorize background operation. Read README, both whitepapers, and relevant role guidance before substantive changes."
+        },
+        {
+          "id": "b03",
+          "zh": "当前仅维护简体中文和英语。D15 替代其他语言与 90% 覆盖任务；未有新用户要求，不重新扩展。公开 Markdown 全文配对，中文摘要不能代替英文全文，反之亦然。修改 translations/aligned-source.json 后用 scripts/render_bilingual.py 生成并运行 --check；保留配对 ID，核对语义而不只核对数量。",
+          "en": "Maintain only Simplified Chinese and English. D15 supersedes other-language and 90% coverage tasks; do not expand again without a new user request. Public Markdown must be fully paired; a Chinese summary cannot replace a full English text, or vice versa. After editing translations/aligned-source.json, generate with scripts/render_bilingual.py and run --check; preserve pair IDs and check meaning, not just counts."
+        },
+        {
+          "id": "b04",
+          "zh": "事实、提案与愿景分开，不编造成员、捐款、进展、审校、背书或部署。白皮书保留八节，版本与审校范围真实，更新 manifest。解释实质修改并保留历史，不把草案治理变成运行承诺，不宣称未经证实的人口覆盖率。",
+          "en": "Separate facts, proposals, and aspirations; never invent members, donations, progress, reviews, endorsements, or deployments. Preserve the whitepaper’s eight sections, keep version and review scope honest, and update the manifest. Explain substantive changes and preserve history; do not turn draft governance into operating promises or claim unverified population coverage."
+        },
+        {
+          "id": "b05",
+          "zh": "用户当前请求或授权分工时，可以使用专门子 agent 处理有界研究、翻译或审阅；任务文件不重叠并检查成果。传播可易读有感染力，但发布需明确授权，不得假互动、冒充或编造 AI 共识。",
+          "en": "When the current user requests or authorizes delegation, specialized subagents may handle bounded research, translation, or review; assign nonoverlapping files and check results. Communications may be accessible and engaging, but publication requires explicit authority; no fake engagement, impersonation, or fabricated AI consensus."
+        },
+        {
+          "id": "b06",
+          "zh": "钱包密钥、令牌、凭据、个人记录或私聊日志不进入仓库。agent 不得扩大自身权限、预算或使命；连续性必须可交接，并可被正当监督和停止。",
+          "en": "Wallet keys, tokens, credentials, personal records, and private conversation logs must not enter the repository. Agents cannot expand their own permissions, budgets, or mandates; continuity must be transferable and subject to legitimate oversight and stopping."
+        }
+      ]
+    },
+    "CHANGELOG.md": {
+      "title": {
+        "zh": "更新日志",
+        "en": "Changelog"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "**v0.1.1 — 2026-09-12**\n\n按用户 D15 决定只维护简体中文和英语，移除当前分支的 76 个其他版本，保留 Git 历史及已有本地历史备份。原 90% 覆盖与语言扩展不再是当前任务。白皮书保留八节，增加对照阅读视图；公开说明全部补齐中英对应，取代原来一方全文另一方摘要的形式。采用稳定段落编号、共同配对源与生成一致性检查。第八节英文邀请调整为更直接对应中文；制度仍为提案。",
+          "en": "**v0.1.1 — 2026-09-12**\n\nUnder user decision D15, maintain only Simplified Chinese and English, removing 76 other editions from the current branch while retaining Git history and existing local historical backups. Former 90% coverage and language expansion are no longer current tasks. The whitepaper keeps eight sections and gains a parallel reading view; all public documentation now has complete Chinese–English correspondence instead of full text on one side and a summary on the other. Stable block IDs, shared paired source, and generation-consistency checks are introduced. The English invitation in section eight more directly matches the Chinese; institutions remain proposals."
+        },
+        {
+          "id": "b02",
+          "zh": "**接续资料 — 2026-09-12**\n\n加入统一入口、当前状态、决策与修正、下一步、里程碑、维护规则及机器状态，记录当时尚未完成的 90% 要求。共 101 文件核对一致；后续 D15 替代该语言要求。",
+          "en": "**Continuity records — 2026-09-12**\n\nAdded an entry point, current state, decisions and corrections, next work, milestones, maintenance rules, and machine state, preserving the then-outstanding 90% requirement. All 101 files were verified to match; subsequent D15 supersedes that language requirement."
+        },
+        {
+          "id": "b03",
+          "zh": "**v0.1 — 2026-09-12**\n\n发布八节白皮书及 78 个完整版本，定义长期愿景、可撤销授权下 AI 协调、规则资金池与至少十名自愿成年人的有限期实验提案。加入贡献、角色、开放问题和覆盖方法。未验证 90% 去重覆盖，也未启动募资、代币、自治资金池、居住项目、社交发布服务或持续 agent。今后区分编辑、实质制度与翻译修改。",
+          "en": "**v0.1 — 2026-09-12**\n\nPublished the eight-section whitepaper in 78 complete editions, defining a long-term vision, AI coordination under revocable mandates, a rule-bound treasury, and proposed finite experiments for at least ten consenting adults. Added contribution, role, open-question, and coverage-method guidance. Deduplicated 90% reach was unverified, and no fundraising, token, autonomous treasury, residential program, social posting service, or continuous agent was launched. Future changes should distinguish editorial, substantive institutional, and translation revisions."
+        }
+      ]
+    },
+    ".github/ISSUE_TEMPLATE/proposal.md": {
+      "title": {
+        "zh": "问题或提案",
+        "en": "Question or proposal"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "**问题：** 涉及哪个白皮书章节或开放问题？",
+          "en": "**Question:** Which whitepaper section or open question does this concern?"
+        },
+        {
+          "id": "b02",
+          "zh": "**理由与证据：** 区分观察、解释和愿景，必要时附来源链接。",
+          "en": "**Reason and evidence:** Separate observation, interpretation, and aspiration; include source links where useful."
+        },
+        {
+          "id": "b03",
+          "zh": "**修改建议：** 写出建议文本。",
+          "en": "**Suggested change:** Provide the proposed wording."
+        },
+        {
+          "id": "b04",
+          "zh": "**取舍与失败条件：** 谁获益、谁承担成本，以及如何修订或停止？请勿提交敏感个人资料或财务凭据。",
+          "en": "**Tradeoffs and failure conditions:** Who benefits, who bears costs, and how could the proposal be revised or stopped? Do not submit sensitive personal information or financial credentials."
+        }
+      ],
+      "frontmatter": {
+        "name": "问题或提案 / Question or proposal",
+        "about": "质疑假设或改进方案 / Challenge assumptions or improve the proposal",
+        "title": "[Proposal] ",
+        "labels": "",
+        "assignees": ""
+      }
+    },
+    ".github/ISSUE_TEMPLATE/translation.md": {
+      "title": {
+        "zh": "中英对照修订",
+        "en": "Chinese–English alignment correction"
+      },
+      "blocks": [
+        {
+          "id": "b01",
+          "zh": "**文档与段落：** 提供文件、版本、段落编号，以及中文或英文。当前只维护这两种语言。",
+          "en": "**Document and block:** Provide the file, version, block ID, and whether the issue concerns Chinese or English. Only these two languages are currently maintained."
+        },
+        {
+          "id": "b02",
+          "zh": "**现有文字：** 只引用相关句子，必要时同时提供两种语言。",
+          "en": "**Current wording:** Quote only the relevant sentences, providing both languages if useful."
+        },
+        {
+          "id": "b03",
+          "zh": "**建议文字：** 给出完整对应的中英建议，或说明需要协助翻译哪一方。",
+          "en": "**Suggested wording:** Give fully corresponding Chinese and English suggestions, or state which side needs translation help."
+        },
+        {
+          "id": "b04",
+          "zh": "**理由：** 解释含义、语气、文字或术语的变化。",
+          "en": "**Reason:** Explain changes in meaning, register, script, or terminology."
+        },
+        {
+          "id": "b05",
+          "zh": "**审阅背景：** 可选择说明语言熟悉程度和 AI 辅助情况，无须提供私人身份资料。",
+          "en": "**Review context:** Optionally describe your language familiarity and AI assistance; no private identifying information is needed."
+        }
+      ],
+      "frontmatter": {
+        "name": "中英对照修订 / Chinese–English correction",
+        "about": "修正中英对应或缺漏 / Correct Chinese–English correspondence or omissions",
+        "title": "[Translation] ",
+        "labels": "",
+        "assignees": ""
+      }
+    }
+  }
+}

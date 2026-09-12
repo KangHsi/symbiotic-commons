@@ -9,7 +9,7 @@
     "branch": "main"
   },
   "stage": "published_whitepaper_proposal",
-  "whitepaper_version": "0.1",
+  "whitepaper_version": "0.1.1",
   "verified_whitepaper_baseline": {
     "commit": "eca392292d97e7d8d451c49d88912ce3058a9241",
     "tree": "9e3f4a8f3c2e8bcba4986e025987885ad7cb39ff",
@@ -17,20 +17,19 @@
     "verification": "all local file Git blob hashes matched the remote release"
   },
   "languages": {
-    "editions": 78,
-    "editorial_groups": 77,
-    "coverage_target_fraction": 0.9,
-    "deduplicated_coverage_verified": false,
-    "actual_coverage_fraction": null,
-    "independent_fluent_review": "pending",
-    "unpublished_pending_locales": [
-      "ff",
-      "wo"
+    "active_locales": [
+      "zh-Hans",
+      "en"
     ],
-    "reference_editions": [
-      "en",
-      "zh-Hans"
-    ]
+    "editions": 2,
+    "editorial_groups": 2,
+    "parallel_view": "whitepaper/bilingual.md",
+    "alignment_source": "translations/aligned-source.json",
+    "independent_human_review": "pending",
+    "former_coverage_target_fraction": 0.9,
+    "former_coverage_target_status": "superseded_by_D15",
+    "population_coverage_claim": null,
+    "additional_language_work_active": false
   },
   "operations": {
     "fundraising_channel_established": false,
@@ -64,5 +63,10 @@
     "context/DECISION_LOG.md",
     "context/NEXT_WORK.md"
   ],
-  "current_record_revision": "Use Git history; this file deliberately does not embed its own commit SHA."
+  "current_record_revision": "Use Git history; this file deliberately does not embed its own commit SHA.",
+  "last_verified_continuity_baseline": {
+    "commit": "71654fd4764036847898e6e54688d121009c9353",
+    "files": 101
+  },
+  "latest_scope_decision": "D15"
 }
