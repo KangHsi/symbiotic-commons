@@ -8,6 +8,12 @@ Symbiotic Commons is an early, openly revisable proposal for voluntary human–A
 
 **Status: whitepaper v0.1, proposal stage.** No residence is operating, no fundraising channel is established, and no autonomous treasury or continuous agent service is deployed by this repository. The proposed name is provisional. Contributions, critique, and translation review are welcome.
 
+## Continue the project / 接续工作
+
+**[Start here / 从这里接续](START_HERE.md)** · [Current state / 当前状态](context/PROJECT_STATE.md) · [Decisions / 决策与修正](context/DECISION_LOG.md) · [Next work / 下一段工作](context/NEXT_WORK.md)
+
+These records preserve conclusions, outstanding requirements, and evidence for future collaborators. They do not create automatic synchronization or continuous agent operation.
+
 ## Read the whitepaper
 
 [English](whitepaper/en.md) · [简体中文](whitepaper/zh-Hans.md) · [繁體中文](whitepaper/zh-Hant.md) · **[All language editions / 全部语言版本](translations/README.md)**

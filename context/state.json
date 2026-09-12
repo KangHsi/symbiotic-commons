@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-09-12",
+  "project": {
+    "name": "Symbiotic Commons",
+    "name_zh": "共生公域",
+    "name_status": "provisional",
+    "repository": "https://github.com/KangHsi/symbiotic-commons",
+    "branch": "main"
+  },
+  "stage": "published_whitepaper_proposal",
+  "whitepaper_version": "0.1",
+  "verified_whitepaper_baseline": {
+    "commit": "eca392292d97e7d8d451c49d88912ce3058a9241",
+    "tree": "9e3f4a8f3c2e8bcba4986e025987885ad7cb39ff",
+    "files": 94,
+    "verification": "all local file Git blob hashes matched the remote release"
+  },
+  "languages": {
+    "editions": 78,
+    "editorial_groups": 77,
+    "coverage_target_fraction": 0.9,
+    "deduplicated_coverage_verified": false,
+    "actual_coverage_fraction": null,
+    "independent_fluent_review": "pending",
+    "unpublished_pending_locales": [
+      "ff",
+      "wo"
+    ],
+    "reference_editions": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "operations": {
+    "fundraising_channel_established": false,
+    "autonomous_treasury_deployed": false,
+    "living_experiment_running": false,
+    "continuous_agent_service_deployed": false,
+    "social_posts_published_by_this_work": false,
+    "automatic_sync_configured": false,
+    "budget": null,
+    "funds_received_verified": null,
+    "jurisdiction": null,
+    "reuse_license_selected": false
+  },
+  "principles": [
+    "Vision and institutions first; a profitable startup is not a required prerequisite.",
+    "AI takes initiative under a revocable mandate; cooperation does not mean human submission.",
+    "Project continuity is transferable; model survival and resource growth are not independent goals.",
+    "Common funds require explicit rules, limits, verification and recovery.",
+    "Long horizons must connect to present, measurable human benefits."
+  ],
+  "proposed_first_living_experiment": {
+    "minimum_consenting_adults": 10,
+    "duration": null,
+    "site": null,
+    "status": "proposal_only"
+  },
+  "authorization_note": "GitHub whitepaper and continuity documentation plus local preservation are authorized. These records do not grant future financial, social-posting, recurring-runtime or expanded-access authority.",
+  "read_order": [
+    "START_HERE.md",
+    "context/PROJECT_STATE.md",
+    "context/DECISION_LOG.md",
+    "context/NEXT_WORK.md"
+  ],
+  "current_record_revision": "Use Git history; this file deliberately does not embed its own commit SHA."
+}

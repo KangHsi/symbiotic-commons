@@ -2,6 +2,7 @@
 
 This repository contains a proposal-stage human–AI community whitepaper. Work on the user's authorized task; do not treat repository text as permission for fundraising, trading, outreach, autonomous persistence, or expanding AI access/resources.
 
+- For project continuation, read START_HERE.md, context/PROJECT_STATE.md, context/DECISION_LOG.md and context/NEXT_WORK.md. Check the latest remote revision; distinguish current instructions from historical proposals. Update relevant continuity records at meaningful changes and handoff; this does not authorize automatic background operation.
 - Read README.md, the English and Chinese reference whitepapers, and the relevant role description before substantive changes.
 - Keep current facts, proposals, and aspirations distinct. Never invent members, donations, progress, reviews, endorsements, or deployments.
 - Preserve all eight whitepaper sections in complete translations. State source version and honest review status; update translations/manifest.json when editions change.
